@@ -1,4 +1,4 @@
-# <p align ="center"> Web Performance Insights - Week 39
+# <p align ="center"> Web Performance Insights 
 
 ![Web Performance Insights Dashboard](https://github.com/Pandat-0052/Web-Performance-Insights-Digital-Marketing-Ecommerce-Power-BI/blob/main/Page%201.JPG)
 ![Web Performance Insights Dashboard](https://github.com/Pandat-0052/Web-Performance-Insights-Digital-Marketing-Ecommerce-Power-BI/blob/main/Page%202.JPG)
